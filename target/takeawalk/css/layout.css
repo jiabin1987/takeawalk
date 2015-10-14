@@ -1,0 +1,20 @@
+.content {
+	width:87%;
+/* 	text-align:center; */
+	margin-left:auto;
+	margin-right:auto;
+}
+
+html, body { 
+	height:100%;
+}
+html {
+	min-width:890px;
+}
+body { 
+	background:url(images/tail-top.gif) 0 0 repeat-x #fff; 
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:100%; 
+	line-height:1.0625em;
+	color:#807e83;
+}
